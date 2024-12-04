@@ -192,7 +192,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1560" y="1335" />
-              <mxPoint x="1560" y="1223" />
+              <mxPoint x="1560" y="1230" />
+              <mxPoint x="1150" y="1230" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -318,7 +319,13 @@
           <mxGeometry x="1600" y="1305" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1RGsNLScatuhlmofofDI-33" value="&lt;b&gt;*&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1155" y="1150" width="30" height="30" as="geometry" />
+          <mxGeometry x="1150" y="1210" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1RGsNLScatuhlmofofDI-36" value="&lt;b&gt;*&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="920" y="1150" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1RGsNLScatuhlmofofDI-37" value="&lt;b&gt;1&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="800" y="840" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
